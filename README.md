@@ -2,7 +2,7 @@
 
 ### **A Portfolio of Practical Solutions**
 
-Hello. The case studies in this portfolio are designed for a non-technical audience, specifically leaders and managers in the charity sector.
+Hello! The case studies in this portfolio are designed for a non-technical audience, specifically leaders and managers in the charity sector.
 
 My professional work involves building data systems for organisations with sensitive information. Because that work is confidential, I have created these practical demonstrations to showcase my working methods in a safe and open environment.
 

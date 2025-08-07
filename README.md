@@ -2,7 +2,7 @@
 
 ### **A Portfolio of Practical Solutions**
 
-**Hello. If you are a leader in the charity sector looking for practical ways to solve data challenges, you are in the right place.**
+**Hello! If you are a leader in the charity sector looking for practical ways to solve data challenges, you are in the right place.**
 
 This portfolio contains non-technical case studies that show how to build more efficient and reliable systems for your team. Because my professional work with sensitive data is confidential, I have created these public-facing demonstrations to share my hands-on methods for tackling the real-world problems many charities face.
 

@@ -6,7 +6,7 @@
 
 This portfolio contains non-technical case studies that show how to build more efficient and reliable systems for your team. Because my professional work with sensitive data is confidential, I have created these public-facing demonstrations to share my hands-on methods for tackling the real-world problems many charities face.
 
-These projects use a non-confidential dataset to show how I solve common, real-world problems that many charities face. Each case study is a practical blueprint for building more efficient and reliable data systems.
+These projects use a non-confidential dataset to show how I solve problems common to the sector. Each case study is a practical blueprint for building more efficient and reliable data systems.
 
 ---
 
